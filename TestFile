@@ -1,5 +1,6 @@
 #here is a sample code:
 def test(string):
   print(string)
+  a = 4
   
 Hiii - Sheila
