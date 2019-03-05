@@ -1,0 +1,4 @@
+#here is a sample code:
+def test(string):
+  print(string)
+  
